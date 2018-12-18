@@ -195,3 +195,6 @@ python gradient_boosting.py --top-fc=32 --data-set=3 > ../data/output/gradient_b
 # gradient boosting, 16 labs+demographics+interventions+triples:
 python gradient_boosting.py --top-fc=16 --data-set=3 > ../data/output/gradient_boosting3_t.out
 ```
+
+## License
+By committing your code to the MIMICIII-ML-experiments code repository you agree to release the code under the [MIT License](https://github.com/translational-informatics/MIMICIII-ML-experiments/blob/master/LICENSE) attached to the repository.
