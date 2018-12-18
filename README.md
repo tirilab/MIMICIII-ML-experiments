@@ -1,5 +1,7 @@
 # Running Machine Learning experiments
 
+Machine learning experiments to understand the impact of ranking and filtering laboratory result features on the interpretability and performance of a range of machine learning models (linear regression, k-nearest neighbors, and gradient boosting). Experiments are conducted with a severe asthma case study.
+
 ## Requirments
 * Python 3.6  
 * Pandas
@@ -85,10 +87,8 @@ python logistic_regression.py --top-fc=8 > ../data/output/logistic_regression4.o
 # logistic regression, top 4 lab features:
 python logistic_regression.py --top-fc=4 > ../data/output/logistic_regression5.out
    
-   
 # logistic regression, top 2 lab features:
 python logistic_regression.py --top-fc=2 > ../data/output/logistic_regression6.out
-   
    
 # logistic regression, top 1 lab feature:
 python logistic_regression.py --top-fc=1 > ../data/output/logistic_regression7.out
@@ -105,7 +105,6 @@ python logistic_regression.py --top-fc=32 --data-set=1 > ../data/output/logistic
 # logistic regression, top 16 labs, demographics:
 python logistic_regression.py --top-fc=16 --data-set=1 > ../data/output/logistic_regression3_d.out
 
-
 # logistic regression, 11 clinically relevant labs, demographics+interventions:
 python logistic_regression.py --top-fc=0 --data-set=2 > ../data/output/logistic_regression0_i.out
    
@@ -120,7 +119,6 @@ python logistic_regression.py --top-fc=16 --data-set=2 > ../data/output/logistic
 
 # logistic regression, 11 clinically relevant labs, demographics+interventions+triples:
 python logistic_regression.py --top-fc=0 --data-set=3 > ../data/output/logistic_regression0_t.out
-
 
 # logistic regression, 42 labs, demographics+interventions+triples:
 python logistic_regression.py --data-set=3 > ../data/output/logistic_regression1_t.out
