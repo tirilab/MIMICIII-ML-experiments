@@ -1,0 +1,13 @@
+/hpcdata1/overby-mimic/asthma_pickled_triples/top_32_features/
+GridSearchCV(cv=10, error_score='raise',
+       estimator=LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False),
+       fit_params=None, iid=True, n_jobs=10,
+       param_grid={'penalty': ['l1', 'l2'], 'C': [0.01, 0.02, 0.03, 0.04, 0.05, 0.06, 0.07, 0.08, 0.09, 0.1, 0.11, 0.12, 0.13, 0.14, 0.15, 0.16, 0.17, 0.18, 0.19, 0.2], 'max_iter': [100, 200, 400]},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring='roc_auc', verbose=0)
+------------------------------
+Started Training
+------------------------------

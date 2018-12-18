@@ -1,0 +1,11 @@
+universe = vanilla
+should_transfer_files = no
+getenv = true
+executable = /hpcapp1/usr/local/anaconda3/bin/python
+arguments = gradient_boosting.py --data-set=1
+input = extract_hourly_intervention.pyx
+output = gradient_boosting1_d.out
+error = gradient_boosting1_d.error
+log = gradient_boosting1_d.log
+queue 1
+

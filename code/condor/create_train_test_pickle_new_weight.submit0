@@ -1,0 +1,11 @@
+universe = vanilla
+should_transfer_files = no
+getenv = true
+executable = /hpcapp1/usr/local/anaconda3/bin/python
+arguments = create_train_test_new_weight_pickle.py --data-set=0
+input = extract_hourly_intervention.pyx
+output = create_train_test_new_weight_pickle0.out
+error = create_train_new_weight_test_pickle0.error
+log = create_train_test_new_weight_pickle0.log
+queue 1
+

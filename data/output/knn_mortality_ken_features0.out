@@ -1,0 +1,81 @@
+/hpcdata1/overby-mimic/asthama_mortality/time_series/
+Death Percentage 0.4985046058140926
+Cleaned Patients:  7777
+Orignal Patients:  8359
+7777
+Completed->1 / 6222
+Completed->201 / 6222
+Completed->401 / 6222
+Completed->601 / 6222
+/hpcdata1/overby-mimic/asthama_mortality/time_series/46057
+/hpcdata1/overby-mimic/asthama_mortality/time_series/1701
+Completed->801 / 6222
+Completed->1001 / 6222
+Completed->1201 / 6222
+Completed->1401 / 6222
+Completed->1601 / 6222
+Completed->1801 / 6222
+Completed->2001 / 6222
+Completed->2201 / 6222
+Completed->2401 / 6222
+Completed->2601 / 6222
+Completed->2801 / 6222
+Completed->3001 / 6222
+Completed->3201 / 6222
+Completed->3401 / 6222
+Completed->3601 / 6222
+Completed->3801 / 6222
+Completed->4001 / 6222
+Completed->4201 / 6222
+Completed->4401 / 6222
+Completed->4601 / 6222
+Completed->4801 / 6222
+Completed->5001 / 6222
+Completed->5201 / 6222
+/hpcdata1/overby-mimic/asthama_mortality/time_series/13868
+Completed->5401 / 6222
+/hpcdata1/overby-mimic/asthama_mortality/time_series/18649
+Completed->5601 / 6222
+Completed->5801 / 6222
+Completed->6001 / 6222
+Completed->6201 / 6222
+Completed->1 / 1555
+/hpcdata1/overby-mimic/asthama_mortality/time_series/1399
+Completed->201 / 1555
+Completed->401 / 1555
+/hpcdata1/overby-mimic/asthama_mortality/time_series/9838
+Completed->601 / 1555
+Completed->801 / 1555
+Completed->1001 / 1555
+Completed->1201 / 1555
+Completed->1401 / 1555
+Classification Report 
+              precision    recall  f1-score   support
+
+          0       0.59      0.87      0.71      3178
+          1       0.74      0.38      0.50      3040
+
+avg / total       0.67      0.63      0.61      6218
+
+----------
+CONFUSION MATRIX 
+ [[2772  406]
+ [1887 1153]]
+----------
+Roc value
+ 0.7341767310622371
+Classification Report 
+              precision    recall  f1-score   support
+
+          0       0.53      0.81      0.64       787
+          1       0.57      0.26      0.36       766
+
+avg / total       0.55      0.54      0.50      1553
+
+----------
+CONFUSION MATRIX 
+ [[636 151]
+ [567 199]]
+----------
+Roc value
+ 0.5447563374814628

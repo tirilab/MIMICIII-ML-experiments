@@ -1,0 +1,324 @@
+000 (5087.000.000) 11/18 13:46:56 Job submitted from host: <192.168.6.253:9620?addrs=192.168.6.253-9620>
+...
+001 (5087.000.000) 11/18 13:47:09 Job executing on host: <192.168.6.76:9585?addrs=192.168.6.76-9585>
+...
+006 (5087.000.000) 11/18 13:47:18 Image size of job updated: 343588
+	30  -  MemoryUsage of job (MB)
+	30668  -  ResidentSetSize of job (KB)
+...
+006 (5087.000.000) 11/18 13:52:18 Image size of job updated: 87905040
+	68364  -  MemoryUsage of job (MB)
+	70004224  -  ResidentSetSize of job (KB)
+...
+006 (5087.000.000) 11/18 13:57:35 Image size of job updated: 110491956
+	95537  -  MemoryUsage of job (MB)
+	97829448  -  ResidentSetSize of job (KB)
+...
+006 (5087.000.000) 11/18 14:02:21 Image size of job updated: 115652084
+	95537  -  MemoryUsage of job (MB)
+	97829448  -  ResidentSetSize of job (KB)
+...
+004 (5087.000.000) 11/18 22:53:33 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 10:15:46, Sys 0 00:09:29  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :     3750     3750    197253
+	   Memory (MB)          :    95537        4     32284
+...
+009 (5087.000.000) 11/18 22:53:33 Job was aborted by the user.
+	via condor_rm (by user kroe6)
+...
+000 (5162.000.000) 11/19 06:52:48 Job submitted from host: <192.168.6.253:9620?addrs=192.168.6.253-9620>
+...
+001 (5162.000.000) 11/19 06:56:15 Job executing on host: <192.168.6.73:9628?addrs=192.168.6.73-9628>
+...
+006 (5162.000.000) 11/19 06:56:27 Image size of job updated: 99156
+	3  -  MemoryUsage of job (MB)
+	2236  -  ResidentSetSize of job (KB)
+...
+006 (5162.000.000) 11/19 07:01:27 Image size of job updated: 2792032
+	58  -  MemoryUsage of job (MB)
+	59176  -  ResidentSetSize of job (KB)
+...
+006 (5162.000.000) 11/19 07:06:28 Image size of job updated: 2792032
+	131  -  MemoryUsage of job (MB)
+	133488  -  ResidentSetSize of job (KB)
+...
+006 (5162.000.000) 11/19 07:11:30 Image size of job updated: 2792032
+	211  -  MemoryUsage of job (MB)
+	215996  -  ResidentSetSize of job (KB)
+...
+006 (5162.000.000) 11/19 07:16:32 Image size of job updated: 2792032
+	314  -  MemoryUsage of job (MB)
+	320752  -  ResidentSetSize of job (KB)
+...
+006 (5162.000.000) 11/19 07:21:33 Image size of job updated: 2792032
+	427  -  MemoryUsage of job (MB)
+	436964  -  ResidentSetSize of job (KB)
+...
+006 (5162.000.000) 11/19 07:26:33 Image size of job updated: 2792032
+	1345  -  MemoryUsage of job (MB)
+	1376472  -  ResidentSetSize of job (KB)
+...
+005 (5162.000.000) 11/19 07:26:51 Job terminated.
+	(0) Abnormal termination (signal 9)
+	(0) No core file
+		Usr 0 00:00:00, Sys 0 00:00:06  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:06  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :     3750     3750    438317
+	   Memory (MB)          :     1345        4       983
+...
+000 (5172.000.000) 11/19 13:05:36 Job submitted from host: <192.168.6.253:9620?addrs=192.168.6.253-9620>
+...
+001 (5172.000.000) 11/19 13:05:50 Job executing on host: <192.168.6.75:9056?addrs=192.168.6.75-9056>
+...
+006 (5172.000.000) 11/19 13:05:58 Image size of job updated: 157140
+	12  -  MemoryUsage of job (MB)
+	12264  -  ResidentSetSize of job (KB)
+...
+006 (5172.000.000) 11/19 13:10:58 Image size of job updated: 80958984
+	61069  -  MemoryUsage of job (MB)
+	62534312  -  ResidentSetSize of job (KB)
+...
+006 (5172.000.000) 11/19 13:15:59 Image size of job updated: 103017568
+	87976  -  MemoryUsage of job (MB)
+	90086904  -  ResidentSetSize of job (KB)
+...
+006 (5172.000.000) 11/19 13:21:01 Image size of job updated: 107271124
+	95176  -  MemoryUsage of job (MB)
+	97459408  -  ResidentSetSize of job (KB)
+...
+006 (5172.000.000) 11/19 13:26:00 Image size of job updated: 111080484
+	95176  -  MemoryUsage of job (MB)
+	97459408  -  ResidentSetSize of job (KB)
+...
+004 (5172.000.000) 11/19 18:31:56 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 05:15:09, Sys 0 00:13:57  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :     3750     3750    196698
+	   Memory (MB)          :    95176        4     32284
+...
+009 (5172.000.000) 11/19 18:31:56 Job was aborted by the user.
+	via condor_rm (by user kroe6)
+...
+000 (5201.000.000) 11/19 18:37:21 Job submitted from host: <192.168.6.253:9620?addrs=192.168.6.253-9620>
+...
+001 (5201.000.000) 11/19 18:37:22 Job executing on host: <192.168.6.32:9582?addrs=192.168.6.32-9582>
+...
+006 (5201.000.000) 11/19 18:37:30 Image size of job updated: 3750
+	3  -  MemoryUsage of job (MB)
+	2212  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 18:42:30 Image size of job updated: 92043632
+	82186  -  MemoryUsage of job (MB)
+	84158424  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 18:47:31 Image size of job updated: 106041528
+	93954  -  MemoryUsage of job (MB)
+	96208800  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 18:52:32 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96208976  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 18:57:32 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209064  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 19:02:32 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209088  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 19:07:33 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209124  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 19:12:33 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209208  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 19:17:33 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209244  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 19:22:35 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209324  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 19:27:35 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209400  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 19:32:35 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209468  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 19:37:36 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209600  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 19:42:37 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209700  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 19:47:37 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209728  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 19:52:38 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209776  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 19:57:39 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209852  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 20:02:39 Image size of job updated: 106041528
+	93955  -  MemoryUsage of job (MB)
+	96209900  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 20:17:40 Image size of job updated: 106041528
+	93956  -  MemoryUsage of job (MB)
+	96210840  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 20:22:40 Image size of job updated: 106041528
+	93956  -  MemoryUsage of job (MB)
+	96210892  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 20:27:41 Image size of job updated: 106041528
+	93956  -  MemoryUsage of job (MB)
+	96210904  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 20:32:42 Image size of job updated: 106041528
+	93956  -  MemoryUsage of job (MB)
+	96210936  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 20:37:42 Image size of job updated: 106041528
+	93957  -  MemoryUsage of job (MB)
+	96210980  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 20:42:43 Image size of job updated: 106041528
+	93957  -  MemoryUsage of job (MB)
+	96211036  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 20:47:44 Image size of job updated: 106041528
+	93957  -  MemoryUsage of job (MB)
+	96211048  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 20:52:44 Image size of job updated: 106041528
+	93957  -  MemoryUsage of job (MB)
+	96211060  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 20:57:44 Image size of job updated: 106041528
+	93957  -  MemoryUsage of job (MB)
+	96211068  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 21:02:45 Image size of job updated: 106041528
+	93957  -  MemoryUsage of job (MB)
+	96211076  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/19 21:07:45 Image size of job updated: 106041528
+	94941  -  MemoryUsage of job (MB)
+	97218876  -  ResidentSetSize of job (KB)
+...
+006 (5201.000.000) 11/20 00:53:09 Image size of job updated: 106041528
+	96106  -  MemoryUsage of job (MB)
+	98412040  -  ResidentSetSize of job (KB)
+...
+004 (5201.000.000) 11/20 20:02:57 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 2 02:38:27, Sys 0 00:05:40  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :     3750     3750    132305
+	   Memory (MB)          :    96106        4     21515
+...
+009 (5201.000.000) 11/20 20:02:57 Job was aborted by the user.
+	via condor_rm (by user kroe6)
+...
+000 (5289.000.000) 11/21 07:11:32 Job submitted from host: <192.168.6.253:9620?addrs=192.168.6.253-9620>
+...
+001 (5289.000.000) 11/21 07:11:51 Job executing on host: <192.168.6.78:9296?addrs=192.168.6.78-9296>
+...
+006 (5289.000.000) 11/21 07:12:01 Image size of job updated: 3750
+	3  -  MemoryUsage of job (MB)
+	2204  -  ResidentSetSize of job (KB)
+...
+006 (5289.000.000) 11/21 07:17:16 Image size of job updated: 151514016
+	103232  -  MemoryUsage of job (MB)
+	105709084  -  ResidentSetSize of job (KB)
+...
+006 (5289.000.000) 11/21 07:22:06 Image size of job updated: 152829680
+	103232  -  MemoryUsage of job (MB)
+	105709084  -  ResidentSetSize of job (KB)
+...
+004 (5289.000.000) 11/22 15:06:21 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:05:09, Sys 0 00:06:28  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :     3750     3750    197228
+	   Memory (MB)          :   103232        4     32284
+...
+009 (5289.000.000) 11/22 15:06:21 Job was aborted by the user.
+	via condor_rm (by user kroe6)
+...
+000 (5335.000.000) 11/27 09:46:25 Job submitted from host: <192.168.6.253:9620?addrs=192.168.6.253-9620>
+...
+001 (5335.000.000) 11/27 09:46:45 Job executing on host: <192.168.6.78:9296?addrs=192.168.6.78-9296>
+...
+006 (5335.000.000) 11/27 09:46:53 Image size of job updated: 122364
+	6  -  MemoryUsage of job (MB)
+	5820  -  ResidentSetSize of job (KB)
+...
+006 (5335.000.000) 11/27 09:51:53 Image size of job updated: 185466436
+	174426  -  MemoryUsage of job (MB)
+	178611368  -  ResidentSetSize of job (KB)
+...
+000 (5338.000.000) 11/27 13:27:39 Job submitted from host: <192.168.6.253:9620?addrs=192.168.6.253-9620>
+...
+001 (5338.000.000) 11/27 13:27:47 Job executing on host: <192.168.6.78:9296?addrs=192.168.6.78-9296>
+...
+006 (5338.000.000) 11/27 13:27:56 Image size of job updated: 3750
+	3  -  MemoryUsage of job (MB)
+	2204  -  ResidentSetSize of job (KB)
+...
+006 (5338.000.000) 11/27 13:32:57 Image size of job updated: 138261512
+	117821  -  MemoryUsage of job (MB)
+	120647780  -  ResidentSetSize of job (KB)
+...
+006 (5338.000.000) 11/27 13:37:57 Image size of job updated: 171140488
+	146400  -  MemoryUsage of job (MB)
+	149912928  -  ResidentSetSize of job (KB)
+...
+006 (5335.000.000) 11/27 13:42:17 Image size of job updated: 186079664
+	174426  -  MemoryUsage of job (MB)
+	178611368  -  ResidentSetSize of job (KB)
+...
+006 (5338.000.000) 11/27 13:42:57 Image size of job updated: 175321108
+	146400  -  MemoryUsage of job (MB)
+	149912928  -  ResidentSetSize of job (KB)
+...

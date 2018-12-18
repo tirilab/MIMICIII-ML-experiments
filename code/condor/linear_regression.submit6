@@ -1,0 +1,11 @@
+universe = vanilla
+should_transfer_files = no
+getenv = true
+executable = /hpcapp1/usr/local/anaconda3/bin/python
+arguments = linear_regression.py --top-fc=2
+input = extract_hourly_intervention.pyx
+output = linear_regression6.out
+error = linear_regression6.error
+log = linear_regression6.log
+queue 1
+

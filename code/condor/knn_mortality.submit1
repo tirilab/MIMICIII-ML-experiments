@@ -1,0 +1,11 @@
+universe = vanilla
+should_transfer_files = no
+getenv = true
+executable = /hpcapp1/usr/local/anaconda3/bin/python
+arguments = knn_mortality.py --data-set=1
+input = extract_hourly_intervention.pyx
+output = knn_mortality1.out
+error = knn_mortality1.error
+log = knn_mortality1.log
+queue 1
+

@@ -1,0 +1,11 @@
+universe = vanilla
+should_transfer_files = no
+getenv = true
+executable = /hpcapp1/usr/local/anaconda3/bin/python
+arguments = extract_hourly_intervention.py --data-set=1
+input = extract_hourly_intervention.pyx
+output = extract_hourly_intervention1.out
+error = extract_hourly_intervention1.error
+log = extract_hourly_intervention1.log
+queue 1
+

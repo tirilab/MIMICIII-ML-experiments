@@ -1,0 +1,75 @@
+/hpcdata1/overby-mimic/asthma_time_series_triples/
+Death Percentage 0.4985046058140926
+Cleaned Patients:  7768
+Orignal Patients:  8359
+7768
+Completed->1 / 6214
+Completed->201 / 6214
+Completed->401 / 6214
+Completed->601 / 6214
+Completed->801 / 6214
+Completed->1001 / 6214
+Completed->1201 / 6214
+Completed->1401 / 6214
+Completed->1601 / 6214
+Completed->1801 / 6214
+Completed->2001 / 6214
+Completed->2201 / 6214
+Completed->2401 / 6214
+Completed->2601 / 6214
+Completed->2801 / 6214
+Completed->3001 / 6214
+Completed->3201 / 6214
+Completed->3401 / 6214
+Completed->3601 / 6214
+Completed->3801 / 6214
+Completed->4001 / 6214
+Completed->4201 / 6214
+Completed->4401 / 6214
+Completed->4601 / 6214
+Completed->4801 / 6214
+Completed->5001 / 6214
+Completed->5201 / 6214
+Completed->5401 / 6214
+Completed->5601 / 6214
+Completed->5801 / 6214
+Completed->6001 / 6214
+Completed->6201 / 6214
+Completed->1 / 1554
+Completed->201 / 1554
+Completed->401 / 1554
+Completed->601 / 1554
+Completed->801 / 1554
+Completed->1001 / 1554
+Completed->1201 / 1554
+Completed->1401 / 1554
+Classification Report 
+              precision    recall  f1-score   support
+
+          0       0.64      0.84      0.72      3158
+          1       0.75      0.51      0.60      3056
+
+avg / total       0.69      0.67      0.66      6214
+
+----------
+CONFUSION MATRIX 
+ [[2637  521]
+ [1510 1546]]
+----------
+Roc value
+ 0.758213112464314
+Classification Report 
+              precision    recall  f1-score   support
+
+          0       0.56      0.75      0.64       804
+          1       0.57      0.36      0.44       750
+
+avg / total       0.56      0.56      0.54      1554
+
+----------
+CONFUSION MATRIX 
+ [[601 203]
+ [480 270]]
+----------
+Roc value
+ 0.5895456053067993

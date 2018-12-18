@@ -1,0 +1,11 @@
+universe = vanilla
+should_transfer_files = no
+getenv = true
+executable = /hpcapp1/usr/local/anaconda3/bin/python
+arguments = create_train_test_pickle.py --data-set=3
+input = extract_hourly_intervention.pyx
+output = create_train_test_pickle3.out
+error = create_train_test_pickle3.error
+log = create_train_test_pickle3.log
+queue 1
+

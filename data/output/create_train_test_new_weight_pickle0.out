@@ -1,0 +1,55 @@
+Death Percentage 0.4985046058140926
+Cleaned Patients:  7777
+Orignal Patients:  8359
+Train Death/Total ratio 0.4892317582770813
+Test Death/Total Ratio 0.49389067524115754
+Selection out of 42  Features
+------------------------------
+Completed->1 / 6222
+Completed->201 / 6222
+Completed->401 / 6222
+Completed->601 / 6222
+/hpcdata1/overby-mimic/asthama_mortality/time_series/46057
+/hpcdata1/overby-mimic/asthama_mortality/time_series/1701
+Completed->801 / 6222
+Completed->1001 / 6222
+Completed->1201 / 6222
+Completed->1401 / 6222
+Completed->1601 / 6222
+Completed->1801 / 6222
+Completed->2001 / 6222
+Completed->2201 / 6222
+Completed->2401 / 6222
+Completed->2601 / 6222
+Completed->2801 / 6222
+Completed->3001 / 6222
+Completed->3201 / 6222
+Completed->3401 / 6222
+Completed->3601 / 6222
+Completed->3801 / 6222
+Completed->4001 / 6222
+Completed->4201 / 6222
+Completed->4401 / 6222
+Completed->4601 / 6222
+Completed->4801 / 6222
+Completed->5001 / 6222
+Completed->5201 / 6222
+/hpcdata1/overby-mimic/asthama_mortality/time_series/13868
+Completed->5401 / 6222
+/hpcdata1/overby-mimic/asthama_mortality/time_series/18649
+Completed->5601 / 6222
+Completed->5801 / 6222
+Completed->6001 / 6222
+Completed->6201 / 6222
+Completed->1 / 1555
+/hpcdata1/overby-mimic/asthama_mortality/time_series/1399
+Completed->201 / 1555
+Completed->401 / 1555
+/hpcdata1/overby-mimic/asthama_mortality/time_series/9838
+Completed->601 / 1555
+Completed->801 / 1555
+Completed->1001 / 1555
+Completed->1201 / 1555
+Completed->1401 / 1555
+X Test[0] 2640
+X Train[0] 2640

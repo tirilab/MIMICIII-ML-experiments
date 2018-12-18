@@ -1,0 +1,27 @@
+extract_hourly_intervention.py:96: FutureWarning: from_csv is deprecated. Please use read_csv(...) instead. Note that some of the default arguments are different, so please refer to the documentation for from_csv when changing your function calls
+  medsConnections = pd.DataFrame.from_csv(directories.processed_csv+"MedsConnections.csv",index_col=None).fillna('').astype(str)
+extract_hourly_intervention.py:97: FutureWarning: from_csv is deprecated. Please use read_csv(...) instead. Note that some of the default arguments are different, so please refer to the documentation for from_csv when changing your function calls
+  proceduresConnection = pd.DataFrame.from_csv(directories.processed_csv+"ProceduresConnection.csv",index_col=None).fillna('').astype(str)
+extract_hourly_intervention.py:110: FutureWarning: from_csv is deprecated. Please use read_csv(...) instead. Note that some of the default arguments are different, so please refer to the documentation for from_csv when changing your function calls
+  procedures = pd.DataFrame.from_csv(directories.mimic_iii_data+"PROCEDUREEVENTS_MV.csv",index_col=None).fillna('').astype(str)
+extract_hourly_intervention.py:114: FutureWarning: from_csv is deprecated. Please use read_csv(...) instead. Note that some of the default arguments are different, so please refer to the documentation for from_csv when changing your function calls
+  d_item = pd.DataFrame.from_csv(directories.mimic_iii_data+"D_ITEMS.csv",index_col=None).fillna('').astype(str)
+extract_hourly_intervention.py:121: FutureWarning: from_csv is deprecated. Please use read_csv(...) instead. Note that some of the default arguments are different, so please refer to the documentation for from_csv when changing your function calls
+  prescriptions = pd.DataFrame.from_csv(directories.mimic_iii_data+"PRESCRIPTIONS.csv",index_col=None).fillna('').astype(str)
+sys:1: DtypeWarning: Columns (11) have mixed types. Specify dtype option on import or set low_memory=False.
+extract_hourly_intervention.py:40: FutureWarning: from_csv is deprecated. Please use read_csv(...) instead. Note that some of the default arguments are different, so please refer to the documentation for from_csv when changing your function calls
+  var_map = pd.DataFrame.from_csv(fn, index_col=None).fillna('').astype(str)
+extract_hourly_intervention.py:47: FutureWarning: Using 'rename_axis' to alter labels is deprecated. Use '.rename' instead
+  return var_map.rename_axis({variable_column: 'VARIABLE', 'MIMIC LABEL': 'MIMIC_LABEL'}, axis=1)
+extract_hourly_intervention.py:40: FutureWarning: from_csv is deprecated. Please use read_csv(...) instead. Note that some of the default arguments are different, so please refer to the documentation for from_csv when changing your function calls
+  var_map = pd.DataFrame.from_csv(fn, index_col=None).fillna('').astype(str)
+extract_hourly_intervention.py:47: FutureWarning: Using 'rename_axis' to alter labels is deprecated. Use '.rename' instead
+  return var_map.rename_axis({variable_column: 'VARIABLE', 'MIMIC LABEL': 'MIMIC_LABEL'}, axis=1)
+extract_hourly_intervention.py:212: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  p_stay['HOURS'] = (pd.to_datetime(p.STARTTIME) - intime).apply(lambda s: s / np.timedelta64(1, 's')) / 60./60
+sys:1: DtypeWarning: Columns (5) have mixed types. Specify dtype option on import or set low_memory=False.
+sys:1: DtypeWarning: Columns (8) have mixed types. Specify dtype option on import or set low_memory=False.

@@ -1,0 +1,31 @@
+Please place the MIMIC III .csv files here.  We cannot place them here due to data use agreements. The
+file names should like something like:
+
+ADMISSIONS.csv
+D_CPT.csv
+DRGCODES.csv
+NOTEEVENTS.csv
+robots.txt
+CALLOUT.csv
+DIAGNOSES_ICD.csv
+ICUSTAYS.csv
+OUTPUTEVENTS.csv
+SERVICES.csv
+CAREGIVERS.csv
+D_ICD_DIAGNOSES.csv
+INPUTEVENTS_CV.csv
+PATIENTS.csv
+TRANSFERS.csv
+CHARTEVENTS.csv
+D_ICD_PROCEDURES.csv
+INPUTEVENTS_MV.csv
+PRESCRIPTIONS.csv
+CPTEVENTS.csv
+D_ITEMS.csv
+LABEVENTS.csv
+PROCEDUREEVENTS_MV.csv
+DATETIMEEVENTS.csv
+D_LABITEMS.csv
+MICROBIOLOGYEVENTS.csv
+PROCEDURES_ICD.csv
+

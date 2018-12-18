@@ -1,0 +1,11 @@
+universe = vanilla
+should_transfer_files = no
+getenv = true
+executable = /hpcapp1/usr/local/anaconda3/bin/python
+arguments = extract_asthma.py
+input = extract_hourly_intervention.pyx
+output = extract_asthma.out
+error = extract_asthma.error
+log = extract_asthma.log
+queue 1
+

@@ -1,0 +1,48 @@
+/hpcdata1/overby-mimic/asthma_time_series_interventions/
+Death Percentage 0.4985046058140926
+Cleaned Patients:  7768
+Orignal Patients:  8359
+7768
+Train Death/Total ratio 0.49179272610234953
+Test Death/Total Ratio 0.4826254826254826
+Completed->1 / 6214
+Completed->201 / 6214
+Completed->401 / 6214
+Completed->601 / 6214
+Completed->801 / 6214
+Completed->1001 / 6214
+Completed->1201 / 6214
+Completed->1401 / 6214
+Completed->1601 / 6214
+Completed->1801 / 6214
+Completed->2001 / 6214
+Completed->2201 / 6214
+Completed->2401 / 6214
+Completed->2601 / 6214
+Completed->2801 / 6214
+Completed->3001 / 6214
+Completed->3201 / 6214
+Completed->3401 / 6214
+Completed->3601 / 6214
+Completed->3801 / 6214
+Completed->4001 / 6214
+Completed->4201 / 6214
+Completed->4401 / 6214
+Completed->4601 / 6214
+Completed->4801 / 6214
+Completed->5001 / 6214
+Completed->5201 / 6214
+Completed->5401 / 6214
+Completed->5601 / 6214
+Completed->5801 / 6214
+Completed->6001 / 6214
+Completed->6201 / 6214
+Completed->1 / 1554
+Completed->201 / 1554
+Completed->401 / 1554
+Completed->601 / 1554
+Completed->801 / 1554
+Completed->1001 / 1554
+Completed->1201 / 1554
+Completed->1401 / 1554
+Pre processing

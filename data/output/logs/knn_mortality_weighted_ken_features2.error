@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "knn_mortality_weighted_ken_features.py", line 252, in <module>
+    X_pr_train = scaler.transform(X_np_train) * weights
+ValueError: operands could not be broadcast together with shapes (6214,13584) (12096,) 

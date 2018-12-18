@@ -1,0 +1,17 @@
+/hpcdata1/overby-mimic/asthma_pickled_demographics/top_42_features/
+GridSearchCV(cv=10, error_score='raise',
+       estimator=GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=3,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=100,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False),
+       fit_params=None, iid=True, n_jobs=10,
+       param_grid={'max_leaf_nodes': [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring='roc_auc', verbose=0)
+------------------------------
+Started Training
+------------------------------
