@@ -1,13 +1,13 @@
 # Running Machine Learning experiments
 
-Machine learning experiments to understand the impact of ranking and filtering laboratory result features on the interpretability and performance of a range of machine learning models (linear regression, k-nearest neighbors, and gradient boosting). Experiments are conducted with a severe asthma case study.
+Machine learning experiments to understand the impact of ranking and filtering laboratory result features according to discriminative score, on the interpretability and performance of logistic regression and gradient boosting machine learning models. Experiments are conducted with a severe asthma mortality prediction case study.
 
 ## Requirments
 * Python 3.6  
 * Pandas
 * Sklearn library
 
-## Getting Paitent ID-Mortality Labels, Mutual Information Score and Lab Weights
+## Getting Paitent Mortality Labels and Discriminative Scores
 Three preprocessed data files MedsConnections.csv, ProcedureConnection.csv and died.csv can be downloaded from [Here](data/preprocessed).
 
 ## Steps to run the experiments:
