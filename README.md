@@ -194,5 +194,7 @@ python gradient_boosting.py --top-fc=32 --data-set=3 > ../data/output/gradient_b
 python gradient_boosting.py --top-fc=16 --data-set=3 > ../data/output/gradient_boosting3_t.out
 ```
 
-## License
+## License and Citation
 By committing your code to the MIMICIII-ML-experiments code repository you agree to release the code under the [MIT License](https://github.com/translational-informatics/MIMICIII-ML-experiments/blob/master/LICENSE) attached to the repository.
+
+Roe KD, Jawa V, Zhang X, Chute CG, Epstein JA, Matelsky J, Shpitser I, Taylor CO. [Feature engineering with clinical expert knowledge: A case study assessment of machine learning model complexity and performance](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231300). PloS one. 2020 Apr 23;15(4):e0231300.
